@@ -35,3 +35,4 @@ class Rect:
 env = [Rect(0, 0, 1, 1)]
 r = Ray((0, 0), 0)
 print(r.get_intersection_points(env))
+print("test")
